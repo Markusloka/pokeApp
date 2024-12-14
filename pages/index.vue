@@ -7,6 +7,7 @@
 <style>
 body {
   height: 100%; /* Make sure html and body span the full height of the page */
+  width: 100%;
   margin: 0; /* Remove default margin */
   padding: 0; /* Remove default padding */
   background-color: #000000; /* Pitch-black background */
@@ -16,7 +17,5 @@ body {
   align-items: center;
   justify-content: center;
   justify-items: center;
-}
-.search {
 }
 </style>
